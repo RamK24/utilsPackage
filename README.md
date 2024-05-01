@@ -1,2 +1,9 @@
 # BMI510-Finalpackage
-Final-Project
+
+This package provides multiple functions for organizing, statistical analysis and plotting.
+
+
+
+
+
+
