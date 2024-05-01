@@ -30,7 +30,6 @@ unscale = function(x){
   unscaled_x = NULL
   if (!(is.null(mean_) | is.null(sd_))){
     unscaled_x = x * sd_ + mean_
-    print(unscaled_x)
   }
   else{
     return(x)
